@@ -1,1 +1,2 @@
-var text="Some text"; console.log(text);
+var text="Some text"; 
+console.log(text);
